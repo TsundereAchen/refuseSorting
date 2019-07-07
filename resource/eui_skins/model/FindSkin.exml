@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="FindSkin" minHeight="50" minWidth="100" xmlns:e="http://ns.egret.com/eui" width="699" height="132">
+	<e:Image source="Bg_box2_png" y="0.5" anchorOffsetX="0" width="701" anchorOffsetY="0" height="131"/>
+    <e:EditableText id="edText" width="341" height="64" size="26" text="请输入需要查询的文字" textColor="0xFFFFF" x="108" y="64.5" anchorOffsetX="0" anchorOffsetY="0"/>
+    <e:Button id="findBtn" icon="Bg_buttom_png" width="93" height="110" x="596" anchorOffsetX="0" anchorOffsetY="0" y="18.5"/>
+</e:Skin>

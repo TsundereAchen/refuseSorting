@@ -1,0 +1,11 @@
+{
+	"skins": {
+		"model.Find": "resource/eui_skins/model/FindSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/ButtonSkin.exml",
+		"resource/eui_skins/model/FindSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

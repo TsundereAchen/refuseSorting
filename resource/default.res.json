@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,Bg_box_png,Bg_box2_png,Bg_buttom_png,thumb_png,track_png,tracklight_png,button_down_png,button_up_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Bg_box_png",
+			"type": "image",
+			"url": "assets/find/Bg_box.png"
+		},
+		{
+			"name": "Bg_box2_png",
+			"type": "image",
+			"url": "assets/find/Bg_box2.png"
+		},
+		{
+			"name": "Bg_buttom_png",
+			"type": "image",
+			"url": "assets/find/Bg_buttom.png"
+		},
+		{
+			"name": "thumb_png",
+			"type": "image",
+			"url": "assets/Slider/thumb.png"
+		},
+		{
+			"name": "track_png",
+			"type": "image",
+			"url": "assets/Slider/track.png"
+		},
+		{
+			"name": "tracklight_png",
+			"type": "image",
+			"url": "assets/Slider/tracklight.png"
+		},
+		{
+			"name": "button_down_png",
+			"type": "image",
+			"url": "assets/Button/button_down.png"
+		},
+		{
+			"name": "button_up_png",
+			"type": "image",
+			"url": "assets/Button/button_up.png"
+		}
+	]
+}
